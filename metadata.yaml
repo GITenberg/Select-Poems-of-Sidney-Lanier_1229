@@ -1,0 +1,32 @@
+_repo: Select-Poems-of-Sidney-Lanier_1229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lanier, Sidney
+    birthdate: 1842
+    deathdate: 1881
+    gutenberg_agent_id: '299'
+    url: http://www.gutenberg.org/2009/agents/299
+    wikipedia: http://en.wikipedia.org/wiki/Sidney_Lanier
+  editor:
+    agent_name: Callaway, Morgan
+    birthdate: 1862
+    deathdate: 1936
+    gutenberg_agent_id: '562'
+    url: http://www.gutenberg.org/2009/agents/562
+description: ''
+gutenberg_bookshelf: Poetry
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: Select Poems of Sidney Lanier
+url: http://www.gutenberg.org/ebooks/1229
